@@ -4,6 +4,9 @@
 This project presents a solution to the Kaggle competition **“One Million Clicks Later”**, where the task is to predict whether a user will **click on a recommended video** in a YouTube-like feed.
 The focus is on building an end-to-end ML pipeline and optimizing **accuracy**, the official leaderboard metric.
 
+## Competition Link
+🔗 **Kaggle Competition:**  
+https://www.kaggle.com/competitions/one-million-clicks-later
 ---
 
 ## Project Structure
